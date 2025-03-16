@@ -1,7 +1,7 @@
 # Autonomous-Car-Project
 Project Overview:
 
-This project is part of the undergraduate course in Computer Science. 
+This project is part of the  course in Computer Science. 
 
 Team Members:
 

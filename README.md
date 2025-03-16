@@ -1,9 +1,9 @@
 # Autonomous-Car-Project
-Project Overview
+Project Overview:
 
 This project is part of the undergraduate course in Computer Science. 
 
-Team Members
+Team Members:
 
 Daniel Agranovski
 
